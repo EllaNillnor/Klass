@@ -1,0 +1,14 @@
+C:\Github\Klass\obj\Debug\net8.0\Klass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Klass\obj\Debug\net8.0\Klass.AssemblyInfoInputs.cache
+C:\Github\Klass\obj\Debug\net8.0\Klass.AssemblyInfo.cs
+C:\Github\Klass\obj\Debug\net8.0\Klass.csproj.CoreCompileInputs.cache
+C:\Github\Klass\bin\Debug\net8.0\Klass.exe
+C:\Github\Klass\bin\Debug\net8.0\Klass.deps.json
+C:\Github\Klass\bin\Debug\net8.0\Klass.runtimeconfig.json
+C:\Github\Klass\bin\Debug\net8.0\Klass.dll
+C:\Github\Klass\bin\Debug\net8.0\Klass.pdb
+C:\Github\Klass\obj\Debug\net8.0\Klass.dll
+C:\Github\Klass\obj\Debug\net8.0\refint\Klass.dll
+C:\Github\Klass\obj\Debug\net8.0\Klass.pdb
+C:\Github\Klass\obj\Debug\net8.0\Klass.genruntimeconfig.cache
+C:\Github\Klass\obj\Debug\net8.0\ref\Klass.dll
