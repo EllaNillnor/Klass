@@ -8,6 +8,14 @@ class Fordon
         private int årsmodel;
         private int vikt;
         
+        public Fordon (string T,string M,int Å,int V ){
+            tillverkare = T;
+            model = M;
+            årsmodel = Å;
+            vikt = V;
+
+        }
+        
         public string Tillverkare{
             get {return tillverkare;}
             set {tillverkare = value; }
@@ -24,5 +32,5 @@ class Fordon
             get {return vikt;}
             set {vikt = value;}
         }
-        
     }
+
