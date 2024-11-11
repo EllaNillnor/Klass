@@ -12,3 +12,4 @@ C:\Github\Klass\obj\Debug\net8.0\refint\Klass.dll
 C:\Github\Klass\obj\Debug\net8.0\Klass.pdb
 C:\Github\Klass\obj\Debug\net8.0\Klass.genruntimeconfig.cache
 C:\Github\Klass\obj\Debug\net8.0\ref\Klass.dll
+C:\Github\Klass\obj\Debug\net8.0\Klass.sourcelink.json
